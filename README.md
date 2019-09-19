@@ -3,7 +3,7 @@
 
 本项目示例：
 
-1、使用Thymeleaf模板引擎实现H5和后台数据绑定；
+1、使用Thymeleaf模板引擎渲染Web视图；
 
 2、使用swagger2构建Restful API说明文档；
 
